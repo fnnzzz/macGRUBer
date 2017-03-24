@@ -4,12 +4,13 @@ Grab BIN codes of banks from `http://mastercvv.ru` allow filtering by country an
 
 ## Installation
 
-` npm install grabbbins -g `
+1. Clone this repo
+2. Run index.js
 
 ## Usage
 
 ``` 
-   Command: grabbbins [options]
+   Command: node index.js [options]
 
    Options:
 
