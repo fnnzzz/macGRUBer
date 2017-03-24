@@ -1,0 +1,33 @@
+{
+  "name": "grabbbins",
+  "version": "1.0.0",
+  "description": "Grab banks bin codes",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "node-args": "^1.0.2",
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnnzzz/grabbbins.git"
+  },
+  "keywords": [
+    "banks-db",
+    "bank",
+    "bin",
+    "codes",
+    "code",
+    "bin-codes"
+  ],
+  "author": "V.Feninets <v.feninets@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fnnzzz/grabbbins/issues"
+  },
+  "homepage": "https://github.com/fnnzzz/grabbbins#readme"
+}
