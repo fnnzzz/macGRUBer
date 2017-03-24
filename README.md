@@ -21,3 +21,6 @@ Grab BIN codes of banks from `http://mastercvv.ru` allow filtering by country an
      --filterBankName   Filter results by bank name [for example: "BANK OF AMERICA"], default: false
 
 ```
+
+## Example
+``` node index.js --pageFrom 5 --pageTo 100 --country us --timeout 200 --filterBankName "NATIONAL CITY BANK" ```
