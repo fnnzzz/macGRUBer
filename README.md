@@ -1,4 +1,4 @@
-## Grabbbins
+## macGRUBer
 
 Grab BIN codes of banks from `http://mastercvv.ru` allow filtering by country and bank name.
 
